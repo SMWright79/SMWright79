@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SMWright79
 - 👀 I’m interested in ... Web Design & UX Design
 - 🌱 I’m currently learning ... HTML, CSS, and Jana Script
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... sierramwright@outlook.com
 
 <!---
